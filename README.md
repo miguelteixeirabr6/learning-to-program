@@ -1,2 +1,2 @@
 #meu primeiro projeto 
-Aprendendo Git
+Aprendendo GitHub
