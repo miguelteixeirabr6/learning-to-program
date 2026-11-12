@@ -1,1 +1,2 @@
-# learning-to-program
+#meu primeiro projeto 
+Aprendendo Git
